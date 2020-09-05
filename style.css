@@ -1,0 +1,145 @@
+*{margin: 0;
+padding: 0}
+
+.ust{width: 100%;height: 43px;background: #b10738;position: relative;z-index:1}
+.orta{width: 100%;height: 657px;background: #f9fafa}
+.ortaalt{width: 100%;height: 200px}
+.alt{width: 100%;height: 300px;background: #53585c}
+.ortaaltic1{width: 380px;height: 200px;background:#f9fafa ;float: left;margin-left: 22%;padding-left: 10px}
+.ortaaltic2{width: 400px;height: 200px;background:#f9fafa ;float: left;}
+.ortaic1{width: 22%;height: 657px;background: #fff;float: left;margin-left: 10%}
+.ortaic2{width: 57.5%;height: 657px;background: #fff;float: left;}
+.ortaaltic2ust{width: 720px;height: 300px;background: #000}
+.ortaaltic2alt{width: 775px;height: 356px;}
+.ortaaltsol{width: 10%;height: 200px;float: left;background: #f9fafa}
+.ortaaltsag{width: 126px;height: 200px;float: left;background: #f9fafa}
+.ustag{width: 22%;height: 43px;background: #fff;margin-left: 10%;float: left;position: relative;z-index: 1}
+
+
+.usticdil ul {margin: 0;padding: 0;list-style: none}
+.usticdil ul li {float: left}
+.usticdil ul li a {display: block;height: 20px;width: 20px;text-decoration: none;color:#FFF;margin: 17px 0 0 20px;font:11px tahoma }
+.usticdil {float: left}
+.usticdil a:hover{opacity: 0.8}
+
+
+
+.usticsag{width: 53px;height: 43px;float: left;margin-left: 450px;position: relative;z-index: 2;}
+.usticsagin {color:#fff;font: 13px tahoma;padding-top: 15px;margin-left: 10px;width: 130px;height: 28px;float: left;text-align: center;border-right: 1px solid #000;border-left: 1px solid #000}
+.usticsaglupa {float: left;background: ;width: 45px;height: 31px;margin-left: 5px;border-right: 1px solid #000;padding-top: 12px}
+.usticsag a {display: block;width: 53px;height: 43px;text-indent: -2000px;text-decoration: none;background: url("images/196.png") center no-repeat;}
+.usticsagin a {text-decoration: none;color: #fff}
+.usticsaglupa a {display: block;width: 40px;height: 20px;text-indent: -2000px;text-decoration: none;background: url("images/lupa.png") center no-repeat }
+.usticsag a:hover{opacity: 0.8}
+.usticsagin a:hover{opacity: 0.8}
+.usticsaglupa a:hover{opacity: 0.8}
+
+.kptpic{background:url("images/KapitalBank.svg") center no-repeat;widows: 198px;height: 40px;margin-top: -20px;position: relative;z-index: 2}
+
+nav {width: 200px; height: 425px;margin: 40px 0 0 60px}
+nav ul{margin: 0;padding: 0;list-style: none}
+nav ul li{position: relative}
+nav ul li a {display: block;width: 250px;height: 40px;text-decoration: underline;color:#000;font:500 20px Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";}
+nav ul li div{display: none;background: #fff;transition: all 3s  }
+nav ul li#kreditler:hover div{display: block;width: 300px;transition:all 3s}
+nav ul li#kreditler div{width: 300px;  background:#e5e6e7;position: absolute;;height: 700px;margin-left: 235px;margin-top: -100px}
+nav ul li#kreditler div ul{margin: 0;padding: 0;list-style: none}
+nav ul li#kreditler div ul li a{display: block;font:bold 14px tahoma;margin-left: 20px;margin-top: 20px;height: 15px;width: 300px;text-decoration: none}
+nav ul li#kreditler div ul li a:hover{text-decoration: underline}
+
+
+nav ul li#depozit:hover div{display: block;width: 300px }
+nav ul li#depozit div{width: 300px;  background:#e5e6e7;position: absolute;;height: 700px;margin-left: 235px;margin-top: -150px}
+nav ul li#depozit div ul{margin: 0;padding: 0;list-style: none;margin-top: 30px}
+nav ul li#depozit div ul li a{display: block;font:bold 14px tahoma;margin-left: 20px;margin-top: 20px;height: 15px;width: 300px;text-decoration: none}
+nav ul li#depozit div ul li a:hover{text-decoration: underline}
+nav  ul li ul{margin: 0;padding: 0}
+
+
+nav ul li#kartlar:hover div{display: block;width: 300px }
+nav ul li#kartlar div{width: 300px;  background: #e5e6e7;position: absolute;;height: 700px;margin-left: 235px;margin-top: -200px}
+nav ul li#kartlar div ul{margin: 0;padding: 0;list-style: none;margin-top: 40px}
+nav ul li#kartlar div ul li a{display: block;font:bold 14px tahoma;margin-left: 20px;margin-top: 20px;height: 15px;width: 300px;text-decoration: none}
+nav ul li#kartlar div ul li a:hover{text-decoration: underline}
+nav  ul li ul{margin: 0;padding: 0}
+
+nav ul li#pul:hover div{display: block;width: 300px }
+nav ul li#pul div{width: 300px;  background: #e5e6e7;position: absolute;;height: 700px;margin-left: 235px;margin-top: -250px}
+nav ul li#pul div ul{margin: 0;padding: 0;list-style: none;margin-top: 50px}
+nav ul li#pul div ul li a{display: block;font:bold 14px tahoma;margin-left: 20px;margin-top: 20px;height: 15px;width: 300px;text-decoration: none}
+nav ul li#pul div ul li a:hover{text-decoration: underline}
+nav  ul li ul{margin: 0;padding: 0}
+
+
+nav ul li#biznes:hover div{display: block;width: 300px }
+nav ul li#biznes div{width: 300px;  background: #e5e6e7;position: absolute;;height: 700px;margin-left: 235px;margin-top: -300px}
+nav ul li#biznes div ul{margin: 0;padding: 0;list-style: none;margin-top: 60px}
+nav ul li#biznes div ul li a{display: block;font:bold 14px tahoma;margin-left: 20px;margin-top: 20px;height: 15px;width: 300px;text-decoration: none}
+nav ul li#biznes div ul li a:hover{text-decoration: underline}
+nav  ul li ul{margin: 0;padding: 0}
+
+
+.menyualt {width:200px; height: 200px;margin: -40px 0 100px 50px}
+.menyualt a{display: block;text-decoration: none;font:600 14px tahoma;line-height: 3px;color:#b10738}
+.menyualt a:hover{text-decoration: underline}
+
+.ortaaltic2alt ul{margin: 0;padding: 0;list-style: none;}
+.ortaaltic2alt ul li{float: left;width: 191.5px;height:180px;display: block;background: #b10738;;border: 1px solid #fff;cursor: pointer}
+.ortaaltic2alt ul li a{;text-decoration: none;width: 48px;height: 48px;display: block;;background:no-repeat;margin: 0 auto 0 auto;text-indent: -2000px}
+.ortaaltic2alt ul li#kre a{width: 48px;height: 48px;background:no-repeat;margin-top: 60px;margin-bottom: 10px}
+.ortaaltic2alt ul li#krt a{width: 48px;height: 48px;background:no-repeat;margin-top: 60px;margin-bottom: 10px}
+.ortaaltic2alt ul li#birbank a{width:48px;height: 48px;background:no-repeat;margin-top: 60px;margin-bottom: 10px}
+.ortaaltic2alt ul li#kom a{width:48px;height: 48px;background:no-repeat;margin-top: 60px;margin-bottom: 10px}
+.ortaaltic2alt ul li#pay a{width:48px;height: 48px;background:no-repeat;margin-top: 60px;margin-bottom: 10px}
+.ortaaltic2alt ul li#atm a{width:48px;height: 48px;background:no-repeat;margin-top: 60px;margin-bottom: 10px}
+.ortaaltic2alt ul li#atm3 a{width:48px;height: 50px;background:no-repeat;background-size: 50px 50px;margin-top: 60px;margin-bottom: 10px}
+.ortaaltic2alt ul li#carer a{width:48px;height: 48px;background:no-repeat;margin-top: 60px;margin-bottom: 10px}
+.ortaaltic2alt ul li span{font: bold 15px tahoma;color: #fff;text-align: center;}
+.ortaaltic2alt ul li#kre span{padding-left: 40px;margin-top: 10px}
+.ortaaltic2alt ul li#krt span{padding-left: 50px;margin-top: 10px}
+.ortaaltic2alt ul li#birbank span{padding-left: 60px;margin-top: 10px}
+.ortaaltic2alt ul li#kom span{padding-left: 20px;margin-top: 10px;width: 100px}
+.ortaaltic2alt ul li#pay span{padding-left: 40px;margin-top: 10px}
+.ortaaltic2alt ul li#atm span{padding-left: 40px;margin-top: 10px}
+.ortaaltic2alt ul li#atm3 span{padding-left: 40px;margin-top: 10px}
+.ortaaltic2alt ul li#carer span{padding-left: 40px;margin-top: 10px}
+
+table{font: 550 12px arial}
+.valu {font: 18px arial}
+.mzn{color:#b10738;font-weight: 800}
+table span a{text-decoration: none;color:#b10738}
+table span a:hover{text-decoration:underline}
+
+.konverter{width: 180px;height: 200px;float: left}
+.konverter select{background: #b10738;color: #fff;padding: 4px 0 4px 5px;border-radius: 5px;border: none}
+.konverter input#btn {display: block;background: #b10738;color: #fff;font: 16px  ;text-align: center;padding: 2px;width: 130px;height: 30px;border-radius: 5px;border: none;cursor: pointer}
+.konverter span{font: bold 18px Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+.konverter input#con {border: 2px solid #b10738;border-radius: 2px;height: 30px;width: 130px;background:#cfd8dc;text-align: right;font-size: 24px }
+.konvertersg {width: 120px;height: 40px; color: #000;font:bold 20px Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";float: left;padding: 60px 0 0 40px}
+.konvertersg span {font-size: 26px;}
+
+.alt1 {width:200px;height: 300px;float: left;margin-left: 140px}
+.alt1ust12{width:200px;height: 120px;float: left;;background: url("images/plays.png") center;background-size: cover;margin: 10px 0 0 10px;cursor: pointer}
+
+.alt1ust3{width:200px;height: 35px;float: left;background: url("images/imap.png") left no-repeat;padding-top: 15px;color: #ddd; font: bold 10px;cursor: pointer;margin: 10px 0 0 10px;cursor: pointer}
+.alt1ust4{width:200px;height: 50px;float: left;margin: 10px 0 0 10px;cursor: pointer}
+
+
+.alt21{width:200px;height: 300px;float: left;margin: 10px 0 0 50px;font: 12px Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";color: #fff;}
+.alt21 a {text-decoration: none;color: #FFFFFF}
+.alt21 a:hover {text-decoration: underline;color: #FFFFFF}
+
+.alt31{width:200px;height: 300px;float: left;margin: 10px 0 0 50px;font: 12px Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";color: #fff;}
+.alt31 a {text-decoration: none;color: #FFFFFF}
+.alt31 a:hover {text-decoration: underline;color: #FFFFFF}
+
+.alt41{width:150px;height: 300px;float: left;margin: 10px 0 0 50px;font: 12px Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";color: #fff;}
+.alt41 a {text-decoration: none;color: #FFFFFF}
+.alt41 a:hover {text-decoration: underline;color: #FFFFFF}
+
+.alt51{width:150px;height: 300px;float: left;margin: 10px 0 0 0px;font: 12px Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";color: #fff;}
+.alt51 a {text-decoration: none;color: #FFFFFF}
+.alt51 a:hover {text-decoration: underline;color: #FFFFFF}
+
+
+
